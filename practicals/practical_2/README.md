@@ -83,3 +83,14 @@ Easy to update grading rules, fix issues, and improve the system.
 - I understood the importance of designing the system with the help of UML diagrams such as IoD and Use Case Diagrams.
 - I learned the importance of the interaction of various actors such as student, professor, LMS, and plagiarism tools.
 
+### Challenges faced
+#### Defining Clear Requirements
+It was difficult to identify all the functional and non-functional requirements clearly. This was solved by separating the requirements by role — Student, Professor, and System — which made it easier to organize and avoid overlap.
+
+#### Designing the System Architecture
+Representing the interaction between multiple actors like Student, Professor, Turnitin, LMS, and Audit Body in one diagram was complex. This was solved by using two separate diagrams — the IoD for overall workflow and the Use Case Diagram for individual actor interactions.
+
+# conclusion
+The Automated Grading System was created with the intention of reducing the workload of professors while delivering fast, accurate, and fair grading results to students. From the analysis of the functional and non-functional requirements, the system was able to address the major issues in grading, plagiarism, and tracking grades.
+The utilization of UML diagrams, specifically Interaction Overview Diagrams and Use Case Diagrams, enabled the clear depiction of the workflow and interaction of all actors. The integration of external services also made the system more reliable.
+This system will definitely improve the grading system in the University LMS by making it more automated, consistent, and traceable, with fairness and security in grading results.
