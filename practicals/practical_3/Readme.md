@@ -1,7 +1,7 @@
 # Practical 3 Class Diagram and Activity Diagram
 
 ## Activity Diagram
-![Activity Diagram]("activity diagram.png")
+![Activity Diagram](activity_diagram.png)
 This diagram illustrates the workflow and sequence of activities in the system, showing how different processes flow from start to completion.
 
 ## Class Diagram
